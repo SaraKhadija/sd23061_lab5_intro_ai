@@ -7,3 +7,5 @@ numpy
 plotly
 nltk
 PdfReader
+torch
+torch.nn.functional
